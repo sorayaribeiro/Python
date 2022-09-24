@@ -45,5 +45,5 @@ def desenho_quadrado():
     #termina o glfw
 
 #chama a função desenho
-if __name__ == '__main__':
+if __name__ == '__main__.py':
     desenho_quadrado()
